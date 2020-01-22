@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Reboot To UEFI
+GenericName=Reboot To UEFI
+Comment=reboot to uefi the machine
+Exec=systemctl reboot --firmware-setup
+Icon=system-reboot
+Categories=System;X-Leave;
+

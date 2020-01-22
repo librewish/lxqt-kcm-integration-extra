@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Fancontrol
+Comment=Control PWM-fans
+Exec=kcmshell5 kcm_fancontrol
+Icon=org.kde.fancontrol.gui
+Terminal=false
+Type=Application
+Categories=LXQt;Qt;Settings;System;DesktopSettings;
+StartupNotify=true
+OnlyShowIn=LXQt;

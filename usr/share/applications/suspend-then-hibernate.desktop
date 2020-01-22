@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Suspend-then-hibernate
+GenericName=Suspend-then-hibernate
+Comment=suspend then hibernate the machine
+Exec=systemctl suspend-then-hibernate
+Icon=system-suspend
+Categories=System;X-Leave;
