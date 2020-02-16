@@ -7,6 +7,6 @@ Exec=kcmshell5 kcm_wacomtablet
 Icon=input-tablet
 Terminal=false
 Type=Application
-Categories=LXQt;Qt;Settings;System;DesktopSettings;
+Categories=LXQt;Settings;DesktopSettings;System;Qt;
 StartupNotify=true
 OnlyShowIn=LXQt;
